@@ -63,7 +63,7 @@ To run the system locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone
+   git clone https://github.com/SUMIT2001GO/Fake-News-Detection-System.git
 
 
 ## Acknowledgements
